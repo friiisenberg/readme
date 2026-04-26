@@ -77,3 +77,4 @@ Four pillars drive everything I do:
 I'm always open to collaborating on projects that blend tech with purpose — especially anything touching AI, education, or African development.
 
 > *"The best time to start was yesterday. The second best time is tonight at 10pm."*
+[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=YOUR_USERNAME)](https://gitcity.natrajx.in/YOUR_USERNAME)
