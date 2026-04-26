@@ -22,7 +22,7 @@
 
 I'm a first-year Software Engineering student at ESP/UCAD in Dakar, on a mission that goes well beyond graduation.
 
-My long-term goal is to earn a **Fulbright scholarship** for an AI/ML Master's program in the US — and then bring that expertise back home to tackle real challenges in Senegal and West Africa through technology and entrepreneurship.
+My long-term goal is to tackle real challenges in Senegal and West Africa through technology and entrepreneurship.
 
 Late nights are when I do my best work. ☀️🌙
 
@@ -48,7 +48,7 @@ Late nights are when I do my best work. ☀️🌙
 
 My roadmap runs from frontend fundamentals all the way to AI research and startup work, under my future company **Dualsoft**. The end goal isn't just personal success — it's bringing real AI-driven solutions to problems that matter in Senegal and across the African continent.
 
-Four pillars drive everything I do:
+Four pillars drive everything I want to achieve:
 
 | Pillar | Focus |
 |---|---|
